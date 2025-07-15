@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 15 Jul 2025 07:56:24 at https://www.allinlondon.co.uk/directory/hairdressers/48484-kay-and-kompany +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.allinlondon.co.uk/directory/hairdressers/48484-kay-and-kompany -O1 "C:\Users\philip godwin\Desktop\goddy\aahttps___www.allinlondon.co.uk_directory_hairdressers_48484-kay-and-kompany" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 6 seconds : 98 links scanned, 97 files written (3320685 bytes overall) [1931511 bytes received at 29265 bytes/sec], 1814655 bytes transferred using HTTP compression in 40 files, ratio 17%, 19.6 requests per connection
+(No errors, 0 warnings, 0 messages)
